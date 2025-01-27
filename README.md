@@ -24,6 +24,6 @@ Select Apache Tomcat v9.0 or below then 10.x and later because(Java EE 8 is the 
 Browse and select the directory where you installed Apache Tomcat (e.g., C:\apache-tomcat-9.0.x).
 Click Finish.
 
-
+** Make Sure that Eclipse Enterprise Edition should be installed in your machine
 
 
